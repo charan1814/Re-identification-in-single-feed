@@ -12,25 +12,20 @@ To detect and track players and the ball in a football match video using compute
 
 ## 📂 Project Structure
 
-
-Re-identification-in-single-feed/
-├── best.pt                     # Trained YOLOv8 model weights (not uploaded to GitHub) link:https://drive.google.com/file/d/1CZNvhRruEGgcl30uESCnHI1Q4ZYpfT4H/view?usp=sharing
-├── 15sec_input_720p.mp4       # Sample input video
-├── 15sec_output_720p.mp4      # Output video with annotated tracking
-├── notebook.ipynb             # Colab notebook (main code for detection + tracking)
-├── requirements.txt           # (Optional) List of dependencies
-├── utils/                     # (Optional) helper functions/scripts
-│   ├── tracker_utils.py       # Tracking-related helper code
-│   └── visualizer.py          # Custom drawing or annotation functions
-├── examples/                  # Screenshots or GIFs of input/output
-│   ├── input_frame.png
-│   └── output_frame.png
-├── README.md                  # Project description and instructions
-└── LICENSE                    # Project license (e.g., MIT)
+- `best.pt` – YOLOv8 trained weights (not stored in repo)
+- `15sec_input_720p.mp4` – Sample input video
+- `15sec_output_720p.mp4` – Output video with annotated results
+- `notebook.ipynb` – Main Google Colab notebook (inference + tracking)
+- `README.md` – Project description and instructions
+- `requirements.txt` – (Optional) Python dependencies
+- `utils/` – (Optional) helper scripts
+  - `tracker_utils.py`
+  - `visualizer.py`
+- `examples/` – (Optional) Input/output screenshots or visual results
 
 
 
-
+link:https://drive.google.com/file/d/1CZNvhRruEGgcl30uESCnHI1Q4ZYpfT4H/view?usp=sharing
 ## 🚀 Features
 
 - ✅ YOLOv8-based player and ball detection
