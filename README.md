@@ -74,7 +74,7 @@ Supervision library
 ## Author
 Charan1814 – GitHub
 
-ByteTrac
+
 
 
 
