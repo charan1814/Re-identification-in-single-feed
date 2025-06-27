@@ -18,7 +18,7 @@ link:https://drive.google.com/file/d/1CZNvhRruEGgcl30uESCnHI1Q4ZYpfT4H/view?usp=
 ├── 15sec_output_720p.mp4 # Output with annotated tracking
 ├── notebook.ipynb # Colab notebook (detection + tracking)
 ├── utils/ # (Optional) helper scripts
-└── README.md # This file
+
 
 
 ## 🚀 Features
