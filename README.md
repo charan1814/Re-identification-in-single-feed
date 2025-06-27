@@ -12,7 +12,7 @@ To detect and track players and the ball in a football match video using compute
 
 ## 📂 Project Structure
 
-- `best.pt` – YOLOv8 trained weights (not stored in repo)
+- `best.pt` – YOLOv8 trained weights (not stored in repo)link:https://drive.google.com/file/d/1CZNvhRruEGgcl30uESCnHI1Q4ZYpfT4H/view?usp=sharing
 - `15sec_input_720p.mp4` – Sample input video
 - `15sec_output_720p.mp4` – Output video with annotated results
 - `notebook.ipynb` – Main Google Colab notebook (inference + tracking)
@@ -25,7 +25,7 @@ To detect and track players and the ball in a football match video using compute
 
 
 
-link:https://drive.google.com/file/d/1CZNvhRruEGgcl30uESCnHI1Q4ZYpfT4H/view?usp=sharing
+
 ## 🚀 Features
 
 - ✅ YOLOv8-based player and ball detection
